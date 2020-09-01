@@ -1,4 +1,6 @@
-# PADC-X-RecyclerView-YPST
+# PADC-X-RecyclerView
 Demo of RecyclerView
+NewsList Page
+![Screenshot](https://github.com/HninHsuHlaing/NewsApp/blob/master/news_list.jpg)
 
-![Screenshot](https://user-images.githubusercontent.com/22901781/73045940-6183bd80-3e9e-11ea-8a0a-5f733b9850e6.png)
+
